@@ -1,0 +1,313 @@
+<!DOCTYPE html><!-- Last Published: Mon Apr 27 2026 18:43:33 GMT+0000 (Coordinated Universal Time) --><html data-wf-domain="www.fluentwithstories.com" data-wf-page="67b3ba5c07160c365877fcf2" data-wf-site="67a409ece4694eb5389c6a46" lang="en"><head><meta charset="utf-8"/><link href="https://cdn.prod.website-files.com" rel="preconnect" crossorigin="anonymous"/><title>Spanish Short Stories for Beginners &amp; Intermediates (A1–B2) | Fluent With Stories</title><meta content="Read engaging Spanish stories with native audio, English translation, and interactive exercises: perfect for building vocabulary and confidence from A1 to B2." name="description"/><meta content="Spanish Short Stories for Beginners &amp; Intermediates (A1–B2) | Fluent With Stories" property="og:title"/><meta content="Read engaging Spanish stories with native audio, English translation, and interactive exercises: perfect for building vocabulary and confidence from A1 to B2." property="og:description"/><meta content="https://fluent-with-stories.b-cdn.net/Website/Images/Open%20Graph/Fluent%20with%20Stories%20-%20Spanish%20Stories%20webpage.jpg" property="og:image"/><meta content="Spanish Short Stories for Beginners &amp; Intermediates (A1–B2) | Fluent With Stories" property="twitter:title"/><meta content="Read engaging Spanish stories with native audio, English translation, and interactive exercises: perfect for building vocabulary and confidence from A1 to B2." property="twitter:description"/><meta content="https://fluent-with-stories.b-cdn.net/Website/Images/Open%20Graph/Fluent%20with%20Stories%20-%20Spanish%20Stories%20webpage.jpg" property="twitter:image"/><meta property="og:type" content="website"/><meta content="summary_large_image" name="twitter:card"/><meta content="width=device-width, initial-scale=1" name="viewport"/><meta content="yGD4Q4MBd-20AEhIOUZbJnqFiGIpOWV_7YoJjWLkcVo" name="google-site-verification"/><link href="https://cdn.prod.website-files.com/67a409ece4694eb5389c6a46/css/fluent-with-stories.webflow.shared.2720bd8fb.min.css" rel="stylesheet" type="text/css" integrity="sha384-JyC9j76Ri6pnjByoOWT271aOf0cbLkjoJnPHdqO7XDVKhY4RL9TuhCqvO8KnqH4x" crossorigin="anonymous"/><link href="https://fonts.googleapis.com" rel="preconnect"/><link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="anonymous"/><script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script><script type="text/javascript">WebFont.load({  google: {    families: ["Lato:100,100italic,300,300italic,400,400italic,700,700italic,900,900italic"]  }});</script><script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script><link href="https://cdn.prod.website-files.com/67a409ece4694eb5389c6a46/6807768693dafe65195359f1_Favicon.png" rel="shortcut icon" type="image/x-icon"/><link href="https://cdn.prod.website-files.com/67a409ece4694eb5389c6a46/67be1284f7073d7cfd379d1b_favicon.png" rel="apple-touch-icon"/><link href="https://www.fluentwithstories.com/stories/es" rel="canonical"/><!-- Outseta -->
+<script>
+var o_options = {
+    domain: 'fluentwithstories.outseta.com',
+    load: 'auth,customForm,emailList,leadCapture,nocode,profile,support',
+    tokenStorage: 'local'
+};
+</script>
+<script src="https://cdn.outseta.com/outseta.min.js"
+        data-options="o_options">
+</script>
+
+
+
+<!-- Enhanced Content Protection -->
+<noscript>
+  <meta http-equiv="refresh" 
+        content="0; url=https://www.fluentwithstories.com" />
+</noscript>
+<script>
+(!!window.Outseta) || (window.location.href = window.location.origin);
+</script>
+
+
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N4P28XXM');</script>
+<!-- End Google Tag Manager -->
+
+
+
+<!-- [Attributes by Finsweet] Form Submit Actions for Mailer Lite form submissions -->
+<script defer src="https://cdn.jsdelivr.net/npm/@finsweet/attributes-formsubmit@1/formsubmit.js"></script><!-- [Attributes by Finsweet] CMS Filter -->
+<script async src="https://cdn.jsdelivr.net/npm/@finsweet/attributes-cmsfilter@1/cmsfilter.js"></script>
+
+<!-- [Attributes by Finsweet] CMS Load -->
+<script async src="https://cdn.jsdelivr.net/npm/@finsweet/attributes-cmsload@1/cmsload.js"></script>
+
+<!-- [Attributes by Finsweet] CMS Sort -->
+<script async src="https://cdn.jsdelivr.net/npm/@finsweet/attributes-cmssort@1/cmssort.js"></script>
+
+<!-- Canonical Tag to Prevent Duplicate Content -->
+<link rel="canonical" href="https://www.fluentwithstories.com/stories/es" /></head><body><div class="page-wrapper"><div class="global-styles w-embed"><style>
+
+/* Make text look crisper and more legible in all browsers */
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* Focus state style for keyboard navigation for the focusable elements */
+*[tabindex]:focus-visible,
+  input[type="file"]:focus-visible {
+   outline: 0.125rem solid #4d65ff;
+   outline-offset: 0.125rem;
+}
+
+/* Set color style to inherit */
+.inherit-color * {
+    color: inherit;
+}
+
+/* Get rid of top margin on first element in any rich text element */
+.w-richtext > :not(div):first-child, .w-richtext > div:first-child > :first-child {
+  margin-top: 0 !important;
+}
+
+/* Get rid of bottom margin on last element in any rich text element */
+.w-richtext>:last-child, .w-richtext ol li:last-child, .w-richtext ul li:last-child {
+	margin-bottom: 0 !important;
+}
+
+
+/* Make sure containers never lose their center alignment */
+.container-medium,.container-small, .container-large {
+	margin-right: auto !important;
+  margin-left: auto !important;
+}
+
+/* 
+Make the following elements inherit typography styles from the parent and not have hardcoded values. 
+Important: You will not be able to style for example "All Links" in Designer with this CSS applied.
+Uncomment this CSS to use it in the project. Leave this message for future hand-off.
+*/
+/*
+a,
+.w-input,
+.w-select,
+.w-tab-link,
+.w-nav-link,
+.w-dropdown-btn,
+.w-dropdown-toggle,
+.w-dropdown-link {
+  color: inherit;
+  text-decoration: inherit;
+  font-size: inherit;
+}
+*/
+
+/* Apply "..." after 3 lines of text */
+.text-style-3lines {
+	display: -webkit-box;
+	overflow: hidden;
+	-webkit-line-clamp: 3;
+	-webkit-box-orient: vertical;
+}
+
+/* Apply "..." after 2 lines of text */
+.text-style-2lines {
+	display: -webkit-box;
+	overflow: hidden;
+	-webkit-line-clamp: 2;
+	-webkit-box-orient: vertical;
+}
+
+/* These classes are never overwritten */
+.hide {
+  display: none !important;
+}
+
+@media screen and (max-width: 991px) {
+    .hide, .hide-tablet {
+        display: none !important;
+    }
+}
+  @media screen and (max-width: 767px) {
+    .hide-mobile-landscape{
+      display: none !important;
+    }
+}
+  @media screen and (max-width: 479px) {
+    .hide-mobile{
+      display: none !important;
+    }
+}
+ 
+.margin-0 {
+  margin: 0rem !important;
+}
+  
+.padding-0 {
+  padding: 0rem !important;
+}
+
+.spacing-clean {
+padding: 0rem !important;
+margin: 0rem !important;
+}
+
+.margin-top {
+  margin-right: 0rem !important;
+  margin-bottom: 0rem !important;
+  margin-left: 0rem !important;
+}
+
+.padding-top {
+  padding-right: 0rem !important;
+  padding-bottom: 0rem !important;
+  padding-left: 0rem !important;
+}
+  
+.margin-right {
+  margin-top: 0rem !important;
+  margin-bottom: 0rem !important;
+  margin-left: 0rem !important;
+}
+
+.padding-right {
+  padding-top: 0rem !important;
+  padding-bottom: 0rem !important;
+  padding-left: 0rem !important;
+}
+
+.margin-bottom {
+  margin-top: 0rem !important;
+  margin-right: 0rem !important;
+  margin-left: 0rem !important;
+}
+
+.padding-bottom {
+  padding-top: 0rem !important;
+  padding-right: 0rem !important;
+  padding-left: 0rem !important;
+}
+
+.margin-left {
+  margin-top: 0rem !important;
+  margin-right: 0rem !important;
+  margin-bottom: 0rem !important;
+}
+  
+.padding-left {
+  padding-top: 0rem !important;
+  padding-right: 0rem !important;
+  padding-bottom: 0rem !important;
+}
+  
+.margin-horizontal {
+  margin-top: 0rem !important;
+  margin-bottom: 0rem !important;
+}
+
+.padding-horizontal {
+  padding-top: 0rem !important;
+  padding-bottom: 0rem !important;
+}
+
+.margin-vertical {
+  margin-right: 0rem !important;
+  margin-left: 0rem !important;
+}
+  
+.padding-vertical {
+  padding-right: 0rem !important;
+  padding-left: 0rem !important;
+}
+
+</style></div><div class="section_info-banner"><section class="banner_component"><div class="padding-global"><div class="banner_content-wrapper"><div class="banner_content"><div class="banner_text-wrapper"><div class="text-size-small text-weight-bold">The A1 Spanish Course just launched!</div></div><div class="button-group"><a data-cta="banner" href="/courses/a1-spanish-course" class="button is-banner w-button">See what&#x27;s inside</a></div></div><a data-w-id="616b4b8b-f9f3-5f0d-94f9-9b3f625ee6bd" href="#" class="banner_close-button w-inline-block"><div class="icon-embed-small w-embed"><svg width="100%" height="100%" viewBox="0 0 32 33" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M22.8354 22.864L22.3639 23.3354C22.1036 23.5957 21.6815 23.5957 21.4211 23.3354L16 17.9142L10.5788 23.3353C10.3185 23.5957 9.89638 23.5957 9.63603 23.3353L9.16462 22.8639C8.90427 22.6036 8.90427 22.1815 9.16462 21.9211L14.5858 16.5L9.16462 11.0788C8.90427 10.8185 8.90427 10.3964 9.16462 10.136L9.63602 9.66463C9.89637 9.40428 10.3185 9.40428 10.5788 9.66463L16 15.0858L21.4211 9.66462C21.6815 9.40427 22.1036 9.40427 22.3639 9.66462L22.8354 10.136C23.0957 10.3964 23.0957 10.8185 22.8354 11.0788L17.4142 16.5L22.8354 21.9211C23.0957 22.1815 23.0957 22.6036 22.8354 22.864Z" fill="white"/>
+</svg></div></a></div></div></section></div><div data-animation="default" class="navbar_component w-nav" data-easing2="ease" fs-scrolldisable-element="smart-nav" data-easing="ease" data-collapse="medium" data-w-id="46bd710b-9e33-adb7-af06-30bbb1022980" role="banner" data-duration="400"><div class="navbar_container"><a href="/" class="navbar_logo-link w-nav-brand"><div class="navbar_logo">Fluent with Stories<span class="text-color-orange">.</span> </div></a><nav role="navigation" class="navbar_menu is-page-height-tablet w-nav-menu"><div class="navbar_menu-links"><a href="/courses/a1-spanish-course" data-cta="navbar" class="navbar_link text-color-orange w-nav-link">A1 Spanish Course</a><div data-delay="200" data-hover="true" blocks-name="navbar1_menu-dropdown" data-w-id="4c5fbc0c-8b3e-461b-ceb4-75f1b75c5412" class="navbar1_menu-dropdown w-dropdown"><div class="navbar1_dropdown-toggle w-dropdown-toggle"><div>Read Stories</div><div class="dropdown-chevron w-embed"><svg width=" 100%" height=" 100%" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M2.55806 6.29544C2.46043 6.19781 2.46043 6.03952 2.55806 5.94189L3.44195 5.058C3.53958 4.96037 3.69787 4.96037 3.7955 5.058L8.00001 9.26251L12.2045 5.058C12.3021 4.96037 12.4604 4.96037 12.5581 5.058L13.4419 5.94189C13.5396 6.03952 13.5396 6.19781 13.4419 6.29544L8.17678 11.5606C8.07915 11.6582 7.92086 11.6582 7.82323 11.5606L2.55806 6.29544Z" fill="currentColor"/>
+</svg></div></div><nav blocks-name="navbar1_dropdown-list" blocks-slot-children="ST366" class="navbar1_dropdown-list w-dropdown-list"><a href="/stories/es" blocks-name="navbar1_dropdown-link" aria-current="page" class="navbar1_dropdown-link w-dropdown-link w--current">View all levels</a><a href="https://fluentwithstories.com/stories/es?level=A1" blocks-name="navbar1_dropdown-link" class="navbar1_dropdown-link w-dropdown-link">Beginner (A1)</a><a href="https://fluentwithstories.com/stories/es?level=A2" blocks-name="navbar1_dropdown-link-2" class="navbar1_dropdown-link w-dropdown-link">Elementary (A2)</a><a href="https://fluentwithstories.com/stories/es?level=B1" blocks-name="navbar1_dropdown-link-3" class="navbar1_dropdown-link w-dropdown-link">Intermediate (B1)</a><a href="https://fluentwithstories.com/stories/es?level=B2" blocks-name="navbar1_dropdown-link-3" class="navbar1_dropdown-link w-dropdown-link">Upper intermediate (B2)</a></nav></div><a href="/spanish-learning-books" class="navbar_link w-nav-link">Our books</a><div data-delay="200" data-hover="true" blocks-name="navbar1_menu-dropdown" data-w-id="4c5fbc0c-8b3e-461b-ceb4-75f1b75c5426" class="navbar1_menu-dropdown w-dropdown"><div class="navbar1_dropdown-toggle w-dropdown-toggle"><div>More</div><div class="dropdown-chevron w-embed"><svg width=" 100%" height=" 100%" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M2.55806 6.29544C2.46043 6.19781 2.46043 6.03952 2.55806 5.94189L3.44195 5.058C3.53958 4.96037 3.69787 4.96037 3.7955 5.058L8.00001 9.26251L12.2045 5.058C12.3021 4.96037 12.4604 4.96037 12.5581 5.058L13.4419 5.94189C13.5396 6.03952 13.5396 6.19781 13.4419 6.29544L8.17678 11.5606C8.07915 11.6582 7.92086 11.6582 7.82323 11.5606L2.55806 6.29544Z" fill="currentColor"/>
+</svg></div></div><nav blocks-name="navbar1_dropdown-list" blocks-slot-children="ST366" class="navbar1_dropdown-list w-dropdown-list"><a href="/about" blocks-name="navbar1_dropdown-link" class="navbar1_dropdown-link w-dropdown-link">About us</a><a href="https://www.fluentwithstories.com/learn-spanish/learn-spanish-with-stories" blocks-name="navbar1_dropdown-link" class="navbar1_dropdown-link w-dropdown-link">How to learn with stories</a><a href="/share" blocks-name="navbar1_dropdown-link" class="navbar1_dropdown-link w-dropdown-link">Share with friends</a><a href="/feedback" blocks-name="navbar1_dropdown-link-2" class="navbar1_dropdown-link w-dropdown-link">Give feedback</a><a href="/contact" blocks-name="navbar1_dropdown-link-2" class="navbar1_dropdown-link w-dropdown-link">Contact us</a></nav></div><a href="#" data-widget-mode="login" data-o-auth="1" data-o-anonymous="1" data-mode="popup" class="navbar_link w-nav-link">Log in</a><div class="hide-tablet"><a href="#" data-o-account-page-link="1" data-o-authenticated="1" class="navbar_link w-nav-link">Dashboard</a></div><div class="hide-tablet"><a href="#" data-o-logout-url="/" data-o-logout-link="1" class="navbar_link w-nav-link">Log out</a></div><div data-delay="0" data-hover="false" data-o-authenticated="1" class="account-dropdown w-dropdown"><div class="account-dropdown_toggle w-dropdown-toggle"><div class="account-dropdown_icon-image-2"><div class="icon-embed-avatar w-embed"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24" fill="none" preserveAspectRatio="xMidYMid meet" aria-hidden="true" role="img">
+<g clip-path="url(#clip0_10339_8)">
+<path d="M6.28482 11.9621C6.14623 12.0927 6.01905 12.2681 5.91705 12.5005C5.19734 11.5234 4.45118 10.1619 4.14463 8.79281M6.28482 11.9621L4.14463 8.79281M6.28482 11.9621C6.49557 11.7635 6.73273 11.6683 6.94787 11.633M4.14463 8.79281C4.05311 8.38408 4.00077 7.97466 4.00001 7.57459M4.00001 7.57459L6.94787 11.633M4.00001 7.57459C3.99942 7.2631 4.03009 6.95727 4.09788 6.66184M6.94787 11.633C7.14643 11.6003 7.32624 11.6186 7.44926 11.6535C7.45945 11.4927 7.47236 11.3376 7.48787 11.188M7.48787 11.188L4.09788 6.66184M7.48787 11.188C7.51259 10.9496 7.54389 10.7254 7.58123 10.5145M4.09788 6.66184C4.15517 6.41218 4.23897 6.16995 4.3528 5.93799M4.3528 5.93799L7.58123 10.5145M4.3528 5.93799C4.44789 5.74422 4.56394 5.55763 4.70301 5.37987M7.58123 10.5145C7.63 10.2391 7.68908 9.98657 7.75724 9.75537M7.75724 9.75537L4.70301 5.37987M7.75724 9.75537C7.82298 9.53239 7.89718 9.32925 7.97875 9.14457M4.70301 5.37987C4.82137 5.22858 4.95641 5.08369 5.10939 4.94622M5.10939 4.94622L7.97875 9.14457M5.10939 4.94622C5.23406 4.83419 5.37065 4.7271 5.51984 4.62549M7.97875 9.14457C8.06381 8.95199 8.15689 8.77949 8.25674 8.62551M8.25674 8.62551L5.51984 4.62549M8.25674 8.62551C8.3614 8.46411 8.47351 8.32306 8.59165 8.20056M5.51984 4.62549C5.67684 4.51856 5.84781 4.41771 6.03353 4.32358M6.03353 4.32358L8.59165 8.20056M6.03353 4.32358C6.18303 4.24781 6.3421 4.17639 6.51114 4.10967M8.59165 8.20056C8.71369 8.07401 8.84217 7.96724 8.97551 7.87829M8.97551 7.87829L6.51114 4.10967M8.97551 7.87829C9.11232 7.78703 9.25426 7.71452 9.39964 7.65862M6.51114 4.10967C6.64992 4.0549 6.79541 4.00329 6.94787 3.95503M6.94787 3.95503L9.39964 7.65862M6.94787 3.95503C7.119 3.90087 7.29889 3.85092 7.48787 3.80546M9.39964 7.65862C9.55295 7.59966 9.71008 7.55918 9.86906 7.53466M7.48787 3.80546L9.86906 7.53466M7.48787 3.80546C7.64514 3.76762 7.8087 3.7329 7.97875 3.70143M9.86906 7.53466C10.0465 7.50731 10.2261 7.49983 10.4054 7.50875M10.4054 7.50875L7.97875 3.70143M10.4054 7.50875C10.6054 7.5187 10.8049 7.54908 11 7.59505M7.97875 3.70143C8.1493 3.66987 8.32637 3.64159 8.51015 3.61674M8.51015 3.61674C8.62301 3.60148 8.73841 3.58751 8.85638 3.57487M8.51015 3.61674L11 7.59505M8.85638 3.57487L11.6059 7.78998M8.85638 3.57487C8.98482 3.51815 9.11613 3.46174 9.25 3.40587M11 7.59505C11.2086 7.64419 11.4121 7.71114 11.6059 7.78998M12.3898 8.20056C12.1602 8.05041 11.8937 7.90708 11.6059 7.78998M12.3898 8.20056L9.25 3.40587M12.3898 8.20056C12.59 8.19228 12.7807 8.18974 12.9622 8.19242M9.25 3.40587C9.39304 3.34618 9.539 3.2871 9.6875 3.22892M9.6875 3.22892L12.9622 8.19242M9.6875 3.22892C9.83107 3.17267 9.97702 3.11725 10.125 3.06293M12.9622 8.19242C13.1734 8.19553 13.3722 8.20569 13.5593 8.22208M13.5593 8.22208L10.125 3.06293M13.5593 8.22208C13.8462 8.24722 14.1056 8.28701 14.3397 8.33846M10.125 3.06293C10.2997 2.99879 10.4772 2.93618 10.657 2.87549M10.657 2.87549L14.3397 8.33846M10.657 2.87549C10.8461 2.81165 11.0377 2.74995 11.2312 2.69087M14.3397 8.33846C14.5265 8.37952 14.6972 8.42801 14.853 8.48241M14.853 8.48241L11.2312 2.69087M14.853 8.48241C15.2585 8.624 15.5628 8.80562 15.7864 9.00049M11.2312 2.69087C11.3939 2.64117 11.558 2.59332 11.7229 2.54761M11.7229 2.54761L15.7864 9.00049M11.7229 2.54761C11.8604 2.50953 11.9984 2.47293 12.1369 2.43799M15.7864 9.00049C16.1885 9.35097 16.3298 9.74432 16.3298 10.0248C16.4185 9.96712 16.5063 9.91761 16.593 9.87549M16.593 9.87549L12.1369 2.43799M16.593 9.87549C16.7761 9.78657 16.9541 9.73057 17.125 9.7004M12.1369 2.43799C12.3406 2.38657 12.5452 2.33873 12.75 2.295M12.75 2.295L17.125 9.7004M12.75 2.295C12.9429 2.2538 13.136 2.21624 13.3285 2.18277M17.125 9.7004C17.3519 9.66035 17.5662 9.66587 17.7626 9.7004M17.7626 9.7004L13.3285 2.18277M17.7626 9.7004C17.9599 9.73508 18.1393 9.79903 18.2955 9.87549M13.3285 2.18277C13.4784 2.15672 13.6279 2.13315 13.7769 2.11227M13.7769 2.11227L18.2955 9.87549M13.7769 2.11227C13.9656 2.08581 14.1534 2.06366 14.3397 2.04624M18.2955 9.87549C18.4558 9.95397 18.5917 10.0456 18.6977 10.1324M18.6977 10.1324L14.3397 2.04624M18.6977 10.1324L19.1149 9.87549M14.3397 2.04624C14.4742 2.03366 14.6079 2.02355 14.7406 2.01607M14.7406 2.01607L19.1149 9.87549M14.7406 2.01607C14.955 2.00397 15.1668 1.99821 15.375 2.00049M19.1149 9.87549C19.1597 9.72711 19.2021 9.58129 19.2419 9.43799M19.2419 9.43799L15.375 2.00049M19.2419 9.43799C19.3054 9.20934 19.3627 8.98711 19.4138 8.77113M15.375 2.00049C15.5533 2.00245 15.7291 2.00992 15.9016 2.02334M15.9016 2.02334L19.4138 8.77113M15.9016 2.02334C16.0772 2.037 16.2496 2.05682 16.418 2.08323M19.4138 8.77113C19.4666 8.5478 19.5129 8.33116 19.5529 8.12106M19.5529 8.12106L16.418 2.08323M19.5529 8.12106C19.6033 7.85578 19.6437 7.60091 19.6745 7.35613M16.418 2.08323C16.6317 2.11675 16.8392 2.16091 17.0391 2.2166M17.0391 2.2166L19.6745 7.35613M17.0391 2.2166C17.22 2.26702 17.3948 2.3269 17.5625 2.39691M19.6745 7.35613C19.718 7.00932 19.7422 6.68275 19.7484 6.37549M19.7484 6.37549L17.5625 2.39691M19.7484 6.37549C19.7547 6.06435 19.7424 5.773 19.713 5.50049M17.5625 2.39691C17.7876 2.4909 17.9999 2.60314 18.1972 2.73529M18.1972 2.73529C19.0108 3.28034 19.5686 4.16388 19.713 5.50049M18.1972 2.73529L19.713 5.50049M18.0158 14.6917C18.0158 17.6193 18.0314 18.679 16.4966 20.1463C15.3505 21.2419 12.9945 22.0653 10.4057 19.8695M14.587 15.893C15.1214 15.8038 16.0796 15.2008 15.4384 13.5353M7.79429 15.5573C6.58424 14.8778 4.64209 13.2084 6.55398 11.967C6.81616 11.7844 7.43128 11.6749 7.79429 12.6972M11.8964 12.6555C11.8964 12.8304 11.7499 12.9722 11.5692 12.9722M11.8964 12.6555C11.8964 12.4806 11.7499 12.3388 11.5692 12.3388M11.8964 12.6555H11.2419M11.5692 12.9722C11.3885 12.9722 11.2419 12.8304 11.2419 12.6555M11.5692 12.9722V12.3388M11.2419 12.6555C11.2419 12.4806 11.3885 12.3388 11.5692 12.3388M15.096 12.3036C15.096 13.6057 16.1378 14.6613 17.423 14.6613C18.7082 14.6613 19.75 13.6057 19.75 12.3036C19.75 11.0015 18.7082 9.94587 17.423 9.94587C16.1378 9.94587 15.096 11.0015 15.096 12.3036ZM15.096 12.3036H14.0777M17.7866 12.5851C17.7866 12.76 17.6401 12.9018 17.4594 12.9018M17.7866 12.5851C17.7866 12.4102 17.6401 12.2684 17.4594 12.2684M17.7866 12.5851H17.1321M17.4594 12.9018C17.2786 12.9018 17.1321 12.76 17.1321 12.5851M17.4594 12.9018V12.2684M17.1321 12.5851C17.1321 12.4102 17.2786 12.2684 17.4594 12.2684M9.21518 12.0573L7.66653 12.3422M15.5881 17.5095C15.2155 17.9217 14.1508 18.4988 12.8731 17.5095M14.078 12.2684C14.078 13.59 12.9873 14.6613 11.6419 14.6613C10.2965 14.6613 9.20583 13.59 9.20583 12.2684C9.20583 10.9468 10.2965 9.87549 11.6419 9.87549C12.9873 9.87549 14.078 10.9468 14.078 12.2684Z" stroke="black" stroke-linecap="round"/>
+</g>
+<defs>
+<clipPath id="clip0_10339_8">
+<rect width="24" height="24" fill="white"/>
+</clipPath>
+</defs>
+</svg></div><img data-o-member="ProfileImageS3Url" class="account-dropdown_image"/></div><img width="24" loading="lazy" alt="" src="https://cdn.prod.website-files.com/67a409ece4694eb5389c6a46/6939c34382f4d0660f203f00_arrow-drop-down-gray.svg"/></div><nav class="dropdown-list-2 w-dropdown-list"><a data-o-account-page-link="1" href="#" class="dropdown-link w-inline-block"><div data-o-member="FullName" class="dropdown-text-name">Name</div><div class="spacer-xxsmall"></div><div class="dropdown-text">View dashboard</div></a><a href="#" data-tab="profile" data-o-authenticated="1" data-o-profile="1" data-mode="popup" class="dropdown-link w-dropdown-link">Profile</a><a href="#" data-o-logout-url="/" data-o-logout-link="1" class="dropdown-link w-dropdown-link">Log out</a></nav></div></div><div data-o-anonymous="1" class="navbar_menu-buttons"><div class="button-group"><a data-w-id="749d9453-c504-3346-6ac6-0bdef4253703" href="#" class="button is-secondary is-icon w-inline-block"><img src="https://cdn.prod.website-files.com/67a409ece4694eb5389c6a46/67b39168ae01552bc556c9af_Download_white.svg" loading="lazy" alt="" class="icon-embed-xsmall"/><div>Free PDF</div></a></div></div></nav><div class="navbar_menu-button w-nav-button"><div class="menu-icon1"><div class="menu-icon1_line-top"></div><div class="menu-icon1_line-middle"><div class="menu-icon1_line-middle-inner"></div></div><div class="menu-icon1_line-bottom"></div></div></div></div></div><main class="main-wrapper"><section class="section_filters5"><div class="padding-global"><div class="container-large"><div class="padding-section-medium"><div class="max-width-large"><div><h1 class="heading-style-h2"><span class="text-color-orange">Spanish</span> Short Stories </h1><div class="spacer-small"></div><p class="text-size-regular">This collection of free Spanish short stories for beginners and intermediates is designed to help you learn Spanish in a simple, easy and enjoyable way. All stories are divided by CEFR level (A1 to B2), so whether you’re just starting out or already at an intermediate stage, you’ll find the perfect Spanish short story to practice reading, build vocabulary, and improve your Spanish skills.</p><div class="spacer-medium"></div><h2 class="heading-style-h4">How these stories build your Spanish skills</h2><div class="spacer-small"></div><p class="text-size-regular">Each story combines natural dialogue with essential vocabulary and comes with 3 practice activities: vocabulary flashcards, quizzes, and writing exercises. </p></div></div><div class="spacer-xlarge"></div><div class="filters_component"><div class="filters5_layout"><div id="w-node-_86004f93-ca87-4597-3f00-7d0fc035d646-5877fcf2" class="filters5_filters-wrapper"><div fs-cmsfilter-element="filters" id="w-node-_86004f93-ca87-4597-3f00-7d0fc035d647-5877fcf2" class="filters5_form_component w-form"><form id="wf-form-Filter-5" name="wf-form-Filter-5" data-name="Filter 5" method="get" fs-cmsfilter-element="filters" class="filters5_form" data-wf-page-id="67b3ba5c07160c365877fcf2" data-wf-element-id="86004f93-ca87-4597-3f00-7d0fc035d648"><div class="filters5_filter-group-list"><div class="filters5_list"><div class="filters5_item"><div class="filters5_item-text-wrapper"><div class="paragraph-x-small-3">SEARCH</div><a fs-cmsfilter-field="IDENTIFIER" fs-cmsfilter-element="reset" href="#" class="button-13 is-link w-inline-block"><div class="paragraph-x-small-3">Clear</div></a></div><div class="filters5_keyword-search"><input class="search-input w-input" maxlength="256" name="Search" fs-cmsfilter-field="title" data-name="Search" placeholder="Search for stories" fs-cmsfilter-debounce="200" type="text" id="Search"/></div></div></div><div class="sort-wrapper"><div class="filter-title"><div class="paragraph-x-small-3">Sort by:</div></div><div data-delay="200" data-hover="false" fs-cmssort-element="trigger" id="w-node-_86004f93-ca87-4597-3f00-7d0fc035d634-5877fcf2" data-w-id="86004f93-ca87-4597-3f00-7d0fc035d634" class="dropdown1_component w-dropdown"><div class="dropdown1_toggle w-dropdown-toggle"><div fs-cmssort-element="dropdown-label">Sort by</div><div class="dropdown-chevron w-embed"><svg width=" 100%" height=" 100%" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M2.55806 6.29544C2.46043 6.19781 2.46043 6.03952 2.55806 5.94189L3.44195 5.058C3.53958 4.96037 3.69787 4.96037 3.7955 5.058L8.00001 9.26251L12.2045 5.058C12.3021 4.96037 12.4604 4.96037 12.5581 5.058L13.4419 5.94189C13.5396 6.03952 13.5396 6.19781 13.4419 6.29544L8.17678 11.5606C8.07915 11.6582 7.92086 11.6582 7.82323 11.5606L2.55806 6.29544Z" fill="currentColor"/>
+</svg></div></div><nav class="dropdown1_dropdown-list is-right w-dropdown-list"><a href="#" fs-cmssort-field="date-asc" class="dropdown1_dropdown-link w-dropdown-link">Newest first</a><a href="#" fs-cmssort-field="date-desc" class="dropdown1_dropdown-link w-dropdown-link">Oldest first</a></nav></div></div></div><div class="spacer-small"></div><div class="fs-radio_column"><div class="w-dyn-list"><div role="list" class="level-tags_selector w-dyn-items"><div id="w-node-_11baae51-8134-5c79-92e1-676c7a0d7d11-5877fcf2" role="listitem" class="w-dyn-item"><label class="fs-radio_field-4-2 w-radio"><div class="w-form-formradioinput w-form-formradioinput--inputType-custom fs-radio_button-4 w-radio-input"></div><input type="radio" name="Radio-4" id="Radio-A-4" data-name="Radio 4" style="opacity:0;position:absolute;z-index:-1" value="Radio A"/><span fs-cmsfilter-active="is-active" fs-cmsfilter-field="level" class="fs-radio_label-4 w-form-label" for="Radio-A-4">A1</span></label></div><div id="w-node-_11baae51-8134-5c79-92e1-676c7a0d7d11-5877fcf2" role="listitem" class="w-dyn-item"><label class="fs-radio_field-4-2 w-radio"><div class="w-form-formradioinput w-form-formradioinput--inputType-custom fs-radio_button-4 w-radio-input"></div><input type="radio" name="Radio-4" id="Radio-A-4" data-name="Radio 4" style="opacity:0;position:absolute;z-index:-1" value="Radio A"/><span fs-cmsfilter-active="is-active" fs-cmsfilter-field="level" class="fs-radio_label-4 w-form-label" for="Radio-A-4">A2</span></label></div><div id="w-node-_11baae51-8134-5c79-92e1-676c7a0d7d11-5877fcf2" role="listitem" class="w-dyn-item"><label class="fs-radio_field-4-2 w-radio"><div class="w-form-formradioinput w-form-formradioinput--inputType-custom fs-radio_button-4 w-radio-input"></div><input type="radio" name="Radio-4" id="Radio-A-4" data-name="Radio 4" style="opacity:0;position:absolute;z-index:-1" value="Radio A"/><span fs-cmsfilter-active="is-active" fs-cmsfilter-field="level" class="fs-radio_label-4 w-form-label" for="Radio-A-4">B1</span></label></div><div id="w-node-_11baae51-8134-5c79-92e1-676c7a0d7d11-5877fcf2" role="listitem" class="w-dyn-item"><label class="fs-radio_field-4-2 w-radio"><div class="w-form-formradioinput w-form-formradioinput--inputType-custom fs-radio_button-4 w-radio-input"></div><input type="radio" name="Radio-4" id="Radio-A-4" data-name="Radio 4" style="opacity:0;position:absolute;z-index:-1" value="Radio A"/><span fs-cmsfilter-active="is-active" fs-cmsfilter-field="level" class="fs-radio_label-4 w-form-label" for="Radio-A-4">B2</span></label></div></div></div></div></form><div class="w-form-done"><div>Thank you! Your submission has been received!</div></div><div class="w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div><div class="spacer-small"></div></div><div class="filters5_feed-header-bottom"><div class="filters5_tags-wrapper"><div fs-cmsfilter-element="tag-template" class="filters5_tag"><div fs-cmsfilter-element="tag-text">Tag</div><div class="filters5_close-icon w-embed"><svg width="100%" height="100%" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M17.1266 16.773L16.7729 17.1266C16.5777 17.3218 16.2611 17.3218 16.0658 17.1266L12 13.0607L7.9341 17.1265C7.73888 17.3218 7.42229 17.3218 7.22702 17.1265L6.87347 16.773C6.6782 16.5777 6.6782 16.2612 6.87347 16.0659L10.9394 12L6.87347 7.93413C6.6782 7.73891 6.6782 7.42232 6.87347 7.22705L7.22702 6.8735C7.42228 6.67824 7.73888 6.67824 7.9341 6.8735L12 10.9394L16.0658 6.8735C16.2611 6.67824 16.5777 6.67824 16.7729 6.8735L17.1266 7.22705C17.3218 7.42231 17.3218 7.73891 17.1266 7.93413L13.0607 12L17.1266 16.0659C17.3218 16.2612 17.3218 16.5777 17.1266 16.773Z" fill="currentColor"/>
+</svg></div></div></div><div class="filters5_results-wrapper"><div class="filters5_results-text">Showing <span fs-cmsfilter-element="results-count">0</span> of <span fs-cmsfilter-element="items-count">100</span></div></div></div><div id="w-node-_86004f93-ca87-4597-3f00-7d0fc035d6e4-5877fcf2" class="filters5_feed"><div class="stories-filter_wrapper w-dyn-list"><div fs-cmsload-mode="pagination" class="stories-filter_collection-list w-dyn-items" fs-cmsfilter-element="list" role="list" fs-cmssort-element="list" fs-cmsload-pageboundary="1" fs-cmsload-pagesiblings="2,2,1,1" fs-cmsload-element="list" fs-cmsfilter-showquery="true"><div role="listitem" class="w-dyn-item"><a href="/stories/es/a2-vacaciones-no-planeadas" class="story_card_component w-inline-block"><div class="story-image"><div class="image-cover w-embed"><img 
+  src="https://fluent-with-stories.b-cdn.net/Spanish/Images%20(stories)/Free%20Stories/A2/a2-spanish-short-story-vacaciones-no-planeadas-illustration.jpg" 
+  alt="Older woman holding a plane ticket and suitcase, from the A2 Spanish short story &#39;Vacaciones No Planeadas&#39;." 
+  loading="lazy"
+  style="width:100%; height:100%; object-fit:contain; display:block;"
+></div><div style="background-color:#f1d46a" class="level-badge"><div fs-cmsfilter-field="level" class="text-align-center">A2</div></div></div><div class="story-details"><div class="column-x-small"><h3 fs-cmsfilter-field="title" class="heading-style-h5">Vacaciones No Planeadas</h3><div class="spacer-xxsmall"></div><p class="text-size-small text-style-muted">Carmen overcomes her fear of flying and leaves Spain to visit her son in the U.S.A. But when she lands, something feels very wrong…</p><div class="padding-bottom padding-tiny"></div><div class="story-cta-wrapper"><div class="text-size-small">Read story</div><div class="icon-embed-xxsmall w-embed"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M6 3L11 8L6 13" stroke="CurrentColor" stroke-width="1.5"/>
+</svg></div></div><div class="cms-date_wrapper"><div fs-cmssort-field="date">April 23, 2025</div></div></div></div></a></div><div role="listitem" class="w-dyn-item"><a href="/stories/es/b1-busca-del-hermano-perdido" class="story_card_component w-inline-block"><div class="story-image"><div class="image-cover w-embed"><img 
+  src="https://fluent-with-stories.b-cdn.net/Spanish/Images%20(stories)/Free%20Stories/B1/b1-spanish-short-story-en-busca-del-hermano-perdido-illustration.jpg" 
+  alt="Hand holding an old photo of a young boy, from the B1 Spanish short story &#39;En Busca del Hermano Perdido&#39;." 
+  loading="lazy"
+  style="width:100%; height:100%; object-fit:contain; display:block;"
+></div><div style="background-color:#8dbce2" class="level-badge"><div fs-cmsfilter-field="level" class="text-align-center">B1</div></div></div><div class="story-details"><div class="column-x-small"><h3 fs-cmsfilter-field="title" class="heading-style-h5">En Busca del Hermano Perdido</h3><div class="spacer-xxsmall"></div><p class="text-size-small text-style-muted">Two brothers separated as children. Years later, one crosses the world to find him. But after all this time... is it already too late?</p><div class="padding-bottom padding-tiny"></div><div class="story-cta-wrapper"><div class="text-size-small">Read story</div><div class="icon-embed-xxsmall w-embed"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M6 3L11 8L6 13" stroke="CurrentColor" stroke-width="1.5"/>
+</svg></div></div><div class="cms-date_wrapper"><div fs-cmssort-field="date">April 20, 2025</div></div></div></div></a></div><div role="listitem" class="w-dyn-item"><a href="/stories/es/a2-dia-de-mala-suerte" class="story_card_component w-inline-block"><div class="story-image"><div class="image-cover w-embed"><img 
+  src="https://fluent-with-stories.b-cdn.net/Spanish/Images%20(stories)/Free%20Stories/A2/a2-spanish-short-story-el-dia-de-mala-suerte-illustration.jpg" 
+  alt="Sad man walking in the rain with his head down, from the A2 Spanish short story &#39;El Día de Mala Suerte&#39;." 
+  loading="lazy"
+  style="width:100%; height:100%; object-fit:contain; display:block;"
+></div><div style="background-color:#f1d46a" class="level-badge"><div fs-cmsfilter-field="level" class="text-align-center">A2</div></div></div><div class="story-details"><div class="column-x-small"><h3 fs-cmsfilter-field="title" class="heading-style-h5">El Día De Mala Suerte</h3><div class="spacer-xxsmall"></div><p class="text-size-small text-style-muted">Carlos wakes up late on the day of an important meeting. As he rushes to work, everything goes wrong. Can his day possibly get worse?</p><div class="padding-bottom padding-tiny"></div><div class="story-cta-wrapper"><div class="text-size-small">Read story</div><div class="icon-embed-xxsmall w-embed"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M6 3L11 8L6 13" stroke="CurrentColor" stroke-width="1.5"/>
+</svg></div></div><div class="cms-date_wrapper"><div fs-cmssort-field="date">April 16, 2025</div></div></div></div></a></div><div role="listitem" class="w-dyn-item"><a href="/stories/es/b2-mateo-misterio-muebles" class="story_card_component w-inline-block"><div class="story-image"><div class="image-cover w-embed"><img 
+  src="https://fluent-with-stories.b-cdn.net/Spanish/Images%20(stories)/Free%20Stories/B2/b2-spanish-short-story-mateo-y-el-misterio-de-los-muebles-illustration.jpg" 
+  alt="Man thinking about two images: a confused man and a living room, from the B2 story &#39;Mateo y el Misterio de los Muebles&#39;." 
+  loading="lazy"
+  style="width:100%; height:100%; object-fit:contain; display:block;"
+></div><div style="background-color:#ffb947" class="level-badge"><div fs-cmsfilter-field="level" class="text-align-center">B2</div></div></div><div class="story-details"><div class="column-x-small"><h3 fs-cmsfilter-field="title" class="heading-style-h5">Mateo y El Misterio de Los Muebles</h3><div class="spacer-xxsmall"></div><p class="text-size-small text-style-muted">Struggling for inspiration, writer Mateo offers to solve mysteries. Then comes a letter: furniture moves on its own. Is it madness or truth?</p><div class="padding-bottom padding-tiny"></div><div class="story-cta-wrapper"><div class="text-size-small">Read story</div><div class="icon-embed-xxsmall w-embed"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M6 3L11 8L6 13" stroke="CurrentColor" stroke-width="1.5"/>
+</svg></div></div><div class="cms-date_wrapper"><div fs-cmssort-field="date">April 21, 2025</div></div></div></div></a></div><div role="listitem" class="w-dyn-item"><a href="/stories/es/b2-mateo-novia-sospechosa" class="story_card_component w-inline-block"><div class="story-image"><div class="image-cover w-embed"><img 
+  src="https://fluent-with-stories.b-cdn.net/Spanish/Images%20(stories)/Free%20Stories/B2/b2-spanish-short-story-mateo-y-la-novia-sospechosa-illustration.jpg" 
+  alt="Man thinking with two images in mind: a woman driving with a man and a house for sale, from the B2 story &#39;Mateo y La Novia So" 
+  loading="lazy"
+  style="width:100%; height:100%; object-fit:contain; display:block;"
+></div><div style="background-color:#ffb947" class="level-badge"><div fs-cmsfilter-field="level" class="text-align-center">B2</div></div></div><div class="story-details"><div class="column-x-small"><h3 fs-cmsfilter-field="title" class="heading-style-h5">Mateo y La Novia Sospechosa</h3><div class="spacer-xxsmall"></div><p class="text-size-small text-style-muted">Days before her wedding, Sara suspects her fiancé is cheating. Desperate for answers, she turns to Mateo. Can he uncover the truth in time?</p><div class="padding-bottom padding-tiny"></div><div class="story-cta-wrapper"><div class="text-size-small">Read story</div><div class="icon-embed-xxsmall w-embed"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M6 3L11 8L6 13" stroke="CurrentColor" stroke-width="1.5"/>
+</svg></div></div><div class="cms-date_wrapper"><div fs-cmssort-field="date">April 21, 2025</div></div></div></div></a></div><div role="listitem" class="w-dyn-item"><a href="/stories/es/a2-asientos-inesperados" class="story_card_component w-inline-block"><div class="story-image"><div class="image-cover w-embed"><img 
+  src="https://fluent-with-stories.b-cdn.net/Spanish/Images%20(stories)/Free%20Stories/A2/a2-spanish-short-story-asientos-inesperados-illustration.jpg" 
+  alt="Man and woman sitting next to each other on a plane, from the A2 Spanish short story &#39;Asientos Inesperados&#39;." 
+  loading="lazy"
+  style="width:100%; height:100%; object-fit:contain; display:block;"
+></div><div style="background-color:#f1d46a" class="level-badge"><div fs-cmsfilter-field="level" class="text-align-center">A2</div></div></div><div class="story-details"><div class="column-x-small"><h3 fs-cmsfilter-field="title" class="heading-style-h5">Asientos Inesperados</h3><div class="spacer-xxsmall"></div><p class="text-size-small text-style-muted">Elena finds her ex-husband in the seat next to hers on a flight to Barcelona. After years apart, can they survive hours of forced proximity?</p><div class="padding-bottom padding-tiny"></div><div class="story-cta-wrapper"><div class="text-size-small">Read story</div><div class="icon-embed-xxsmall w-embed"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M6 3L11 8L6 13" stroke="CurrentColor" stroke-width="1.5"/>
+</svg></div></div><div class="cms-date_wrapper"><div fs-cmssort-field="date">April 7, 2025</div></div></div></div></a></div><div role="listitem" class="w-dyn-item"><a href="/stories/es/b2-beso-que-rompio-amistad" class="story_card_component w-inline-block"><div class="story-image"><div class="image-cover w-embed"><img 
+  src="https://fluent-with-stories.b-cdn.net/Spanish/Images%20(stories)/Free%20Stories/B2/b2-spanish-short-story-el-beso-que-rompio-una-amistad-illustration.jpg" 
+  alt="Three portraits showing one girl and two boys, from the B2 Spanish short story &#39;El Beso que Rompió Una Amistad&#39;." 
+  loading="lazy"
+  style="width:100%; height:100%; object-fit:contain; display:block;"
+></div><div style="background-color:#ffb947" class="level-badge"><div fs-cmsfilter-field="level" class="text-align-center">B2</div></div></div><div class="story-details"><div class="column-x-small"><h3 fs-cmsfilter-field="title" class="heading-style-h5">El Beso que Rompió Una Amistad</h3><div class="spacer-xxsmall"></div><p class="text-size-small text-style-muted">Two best friends. One unforgettable summer. Then Clara arrives… and nothing between them will ever be the same.</p><div class="padding-bottom padding-tiny"></div><div class="story-cta-wrapper"><div class="text-size-small">Read story</div><div class="icon-embed-xxsmall w-embed"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M6 3L11 8L6 13" stroke="CurrentColor" stroke-width="1.5"/>
+</svg></div></div><div class="cms-date_wrapper"><div fs-cmssort-field="date">April 21, 2025</div></div></div></div></a></div><div role="listitem" class="w-dyn-item"><a href="/stories/es/a1-paseando-y-haciendo-amigos" class="story_card_component w-inline-block"><div class="story-image"><div class="image-cover w-embed"><img 
+  src="https://fluent-with-stories.b-cdn.net/Spanish/Images%20(stories)/Free%20Stories/A1/a1-spanish-short-story-paseando-y-haciendo-amigos-illustration.jpg" 
+  alt="Boy walking a dog on a leash, from the A1 Spanish short story &#39;Paseando y Haciendo Amigos&#39;." 
+  loading="lazy"
+  style="width:100%; height:100%; object-fit:contain; display:block;"
+></div><div style="background-color:#81ee93" class="level-badge"><div fs-cmsfilter-field="level" class="text-align-center">A1</div></div></div><div class="story-details"><div class="column-x-small"><h3 fs-cmsfilter-field="title" class="heading-style-h5">Paseando y Haciendo Amigos</h3><div class="spacer-xxsmall"></div><p class="text-size-small text-style-muted">A dog&#x27;s spontaneous hello brings two strangers together at a park. Could this be the start of new bonds?</p><div class="padding-bottom padding-tiny"></div><div class="story-cta-wrapper"><div class="text-size-small">Read story</div><div class="icon-embed-xxsmall w-embed"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M6 3L11 8L6 13" stroke="CurrentColor" stroke-width="1.5"/>
+</svg></div></div><div class="cms-date_wrapper"><div fs-cmssort-field="date">April 3, 2025</div></div></div></div></a></div></div><div role="navigation" aria-label="List" class="w-pagination-wrapper pagination"><div class="filter-ui_pagination-wrapper"><a fs-cmsload-element="page-button" href="#" class="filter-ui_pagination-button w-inline-block"><div fs-cmsfilter-active="is-active" fs-cmsfilter-field="page">1</div></a></div><div fs-cmsload-element="page-dots" class="pagination-dots"><div>...</div></div><a href="?52bcba9c_page=2" aria-label="Next Page" class="w-pagination-next button is-small"><div class="w-inline-block">Next</div><svg class="w-pagination-next-icon" height="12px" width="12px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 12" transform="translate(0, 1)"><path fill="none" stroke="currentColor" fill-rule="evenodd" d="M4 2l4 4-4 4"></path></svg></a><link rel="prerender" href="?52bcba9c_page=2"/></div></div><div fs-cmsfilter-element="empty" class="filters5_empty"><div class="heading-style-h6">No results found.</div><div class="spacer-xxsmall-0-5rem"></div><div>There are no results with this criteria. Try changing your search.</div></div></div></div></div></div></div></div></section><section class="section_newsletter-cta"><div class="padding-global"><div class="container-medium"><div class="padding-section-medium"><div class="newsletter-cta_component"><div data-component="cta" class="cta-block"><div id="w-node-_81a0a22d-3829-130a-aa4f-7f4e87a06c71-87a06c6b" class="column-x-large-2"><div class="cta-text-wrapper"><div class="badge-primary"><div>Free PDF</div></div><div class="column-x-small-7"><h2 class="heading-style-h3">Learn <span class="text-color-orange">100 Must-Know </span>Spanish Phrases Through Short Stories!</h2><p class="text-size-small">A free story-based ebook that teaches how natives actually speak with real-life phrases in context you can read on the go or offline.</p></div></div><div class="column-large"><div fs-formsubmit-redirecturl="https://www.fluentwithstories.com/thank-you/es-ebook-verify-email" fs-formsubmit-element="form" fs-formsubmit-enhance="true" fs-formsubmit-redirect="true" class="email-form-block w-form"><form id="newsletter-hp-middle" name="wf-form-Newsletter" data-name="Newsletter" action="https://assets.mailerlite.com/jsonp/2163999/forms/181111577052709896/subscribe" method="post" class="email-form" data-wf-page-id="67b3ba5c07160c365877fcf2" data-wf-element-id="578f45f0-44c4-fbbd-5a6c-66c074db0591"><div class="email-form-wrapper"><input class="newsletter-input w-input" maxlength="256" name="fields[email]" data-name="fields[email]" placeholder="Your email address.." type="email" id="fields[email]" required=""/><input type="submit" data-wait="Please wait..." class="button is-small w-button" value="Grab the Free Ebook"/></div><div class="text-size-super-tiny">By subscribing, you agree with our emails and privacy policy. Unsubscribe at any time.</div></form><div class="form-success-message w-form-done"><div>¡Gracias 🎉 Check your email to confirm your subscription and your free ebook will follow! (If you don&#x27;t see it, please check your spam folder)</div></div><div class="w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div></div></div><div class="newsletter-cta-image w-embed"><img 
+  src="https://fluent-with-stories.b-cdn.net/Spanish/Other%20Images/100%20Must-Know%20Spanish%20Phrases%20Through%20Stories%20Book%20Cover%20-%20Fluent%20with%20stories.jpg" 
+  alt="Cover of the Fluent with Stories brand ebook 100 Must-Know Spanish Phrases Through Short Stories" 
+  loading="lazy"
+  style="width:100%; height:100%; object-fit:contain; display:block;"
+></div></div></div></div></div></div></section></main><footer class="footer_component"><div class="padding-global"><div class="container-large"><div class="padding-section-medium"><div class="footer-wrapper"><div class="max-width-large align-center"><div class="footer_newsletter-text-wrapper text-align-center"><div class="heading-style-h3">Our website is<!-- --> <span class="text-color-orange">free</span> to use.</div><p class="text-size-regular">I love writing stories for you, and keeping this passion project alive has its costs! If you’re enjoying the stories, support the project by subscribing to our newsletter for fresh stories, language tips and updates. It’s the best way to stay connected and improve your Spanish. I&#x27;m excited to have you join us! 🧡</p></div><div fs-formsubmit-redirecturl="https://www.fluentwithstories.com/thank-you/es-ebook-verify-email" fs-formsubmit-element="form" fs-formsubmit-enhance="true" fs-formsubmit-redirect="true" class="email-form-block align-center w-form"><form id="wf-form-Newsletter" name="wf-form-Newsletter" data-name="Newsletter" action="https://assets.mailerlite.com/jsonp/2163999/forms/181111577052709896/subscribe" method="post" class="email-form" data-wf-page-id="67b3ba5c07160c365877fcf2" data-wf-element-id="08eeb34a-f970-eebf-41e8-415037387f3c"><div class="email-form-wrapper"><input class="newsletter-input w-input" maxlength="256" name="fields[email]" data-name="fields[email]" placeholder="Your email address.." type="email" id="fields[email]" required=""/><input type="submit" data-wait="Please wait..." class="button is-small is-footer w-button" value="Join our family"/></div><div class="text-size-super-tiny">By subscribing, you agree with our emails and privacy policy. Unsubscribe at any time.</div></form><div class="form-success-message w-form-done"><div>¡Gracias 🎉 Check your email to confirm your subscription and your free ebook will follow! (If you don&#x27;t see it, please check your spam folder)</div></div><div class="w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div></div><div class="padding-bottom padding-medium"><div class="spacer-medium"></div><nav aria-label="Main Navigation" id="w-node-_0e7b6452-a0b8-f256-7046-374d3ae0f650-2c2c184c" class="footer-links-wrapper"><a href="/" class="footer_logo-link w-nav-brand"><div class="footer_logo">Fluent with Stories<span class="text-color-orange">.</span></div></a><div class="w-layout-grid footer_top-wrapper"><a href="/stories/es" aria-current="page" class="footer_link w--current">Read Stories</a><a href="/spanish-learning-books" class="footer_link">Our books</a><a href="/feedback" class="footer_link">Give Feedback</a><a href="/share" class="footer_link">Share with friends</a><a href="/about" class="footer_link">About</a><a href="/contact" class="footer_link">Contact</a></div></nav></div><div class="divider-horizontal"></div><div class="padding-top padding-medium"><div class="footer_bottom-wrapper"><div class="w-layout-grid footer_legal-list"><div id="w-node-a5a81b0f-799a-dbdc-6da0-3ca82c2c1879-2c2c184c" class="footer_credit-text">© 2025 Fluent With Stories. All rights reserved.</div><a href="/privacy-policy" class="footer_legal-link">Privacy Policy</a><a href="/terms-of-use" class="footer_legal-link">Terms of Use</a></div></div></div></div><aside class="section-modal"><div class="modal-overlay"><div class="modal-a"><a data-w-id="65bb8940-4475-1980-01bd-e0d8755f36ec" href="#" class="modal-close-button w-inline-block"><div class="icon-regular-6 w-embed"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M11.9996 10.9395L15.7121 7.227L16.7726 8.2875L13.0601 12L16.7726 15.7125L15.7121 16.773L11.9996 13.0605L8.28706 16.773L7.22656 15.7125L10.9391 12L7.22656 8.2875L8.28706 7.227L11.9996 10.9395Z" fill="currentColor"/>
+</svg></div></a><div class="modal-avatar"><div class="modal_image-cover w-embed"><img 
+  src="https://fluent-with-stories.b-cdn.net/Spanish/Other%20Images/speaking%20spanish%20fluently.svg" 
+  alt="Two characters chatting over coffee in a minimalist black and white style." 
+  style="width:100%; height:100%; object-fit:contain; display:block;"
+></div></div><div><div class="margin-bottom-12"><h2 class="heading-style-h4">Learn <span class="text-color-orange">100 Must-Know </span>Spanish Phrases Through Short Stories!</h2></div><p class="text-size-regular text-style-muted">A free story-based ebook that teaches how natives actually speak with real-life phrases in context you can read on the go or offline.</p><div class="spacer-medium"></div></div><div fs-formsubmit-redirecturl="https://www.fluentwithstories.com/thank-you/es-ebook-verify-email" fs-formsubmit-element="form" fs-formsubmit-enhance="true" fs-formsubmit-redirect="true" class="email-form-block is-modal w-form"><form id="newsletter-modal" name="wf-form-Newsletter" data-name="Newsletter" action="https://assets.mailerlite.com/jsonp/2163999/forms/181111577052709896/subscribe" method="post" class="email-form" data-wf-page-id="67b3ba5c07160c365877fcf2" data-wf-element-id="1a536e9f-0bce-2537-9b90-7e423107363d"><div class="email-form-wrapper is-modal"><input class="newsletter-input is-modal w-input" maxlength="256" name="fields[email]" data-name="fields[email]" placeholder="Your email address.." type="email" id="fields[email]" required=""/><input type="submit" data-wait="Please wait..." class="button is-small w-button" value="Grab the Free Ebook"/></div><div class="text-size-super-tiny">By subscribing, you agree with our emails and privacy policy. Unsubscribe at any time.</div></form><div class="form-success-message w-form-done"><div>¡Gracias 🎉 Check your email to confirm your subscription and your free ebook will follow! (If you don&#x27;t see it, please check your spam folder)</div></div><div class="w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div></div><div data-w-id="65bb8940-4475-1980-01bd-e0d8755f370a" class="modal-background"></div></div></aside></div></div></div></footer></div><script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=67a409ece4694eb5389c6a46" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script><script src="https://cdn.prod.website-files.com/67a409ece4694eb5389c6a46/js/webflow.schunk.36b8fb49256177c8.js" type="text/javascript" integrity="sha384-4abIlA5/v7XaW1HMXKBgnUuhnjBYJ/Z9C1OSg4OhmVw9O3QeHJ/qJqFBERCDPv7G" crossorigin="anonymous"></script><script src="https://cdn.prod.website-files.com/67a409ece4694eb5389c6a46/js/webflow.schunk.4a4c0fa600077e57.js" type="text/javascript" integrity="sha384-ilzQaUORPicJICzNOzotoebDXLcdCTJ+J+CU1FpHbn0Ru77z23ml2e7V9uV6BC+n" crossorigin="anonymous"></script><script src="https://cdn.prod.website-files.com/67a409ece4694eb5389c6a46/js/webflow.d4506e03.2c6c7b490ba8d3b1.js" type="text/javascript" integrity="sha384-SF98wWgJvXhsHKvyaWe1fwuOQmWpcancqMEQO54pmddk5SDOdxkEN51/JHIKS5v9" crossorigin="anonymous"></script><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N4P28XXM"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --></body></html>
